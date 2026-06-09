@@ -1,0 +1,6 @@
+{
+  "auc": 0.704,
+  "rappel_a_risque": 0.534,
+  "rappel_baseline": 0.411,
+  "n_train": 75000
+}
