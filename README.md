@@ -1,4 +1,4 @@
-# Soluna — Plateforme Data & IA (mémoire Mastère Data, Mines)
+# Soluna — Plateforme Data & IA
 
 Projet fil rouge d'une marque **fictive**, *Soluna* (compléments alimentaires personnalisés par abonnement).
 Objectif transverse : **transformer l'achat d'impulsion en abonnement durable** — c'est-à-dire piloter la rétention (anti-churn).
